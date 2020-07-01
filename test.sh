@@ -1,1 +1,1 @@
-echo "Test Ran from git's hooks!"
+echo "Test Ran from git's hooks"
